@@ -20,4 +20,4 @@ Request an image of a certain dog breed using Dog API
   <li>The image will be updated</li>
 </ul>
 
-![memeME_1](https://user-images.githubusercontent.com/11559134/112868263-8720de00-90c4-11eb-83c2-95bda0715c50.jpeg)
+![](images/dogWebServiceScreenShot.png)
